@@ -111,4 +111,4 @@ UpgradeLog*.XML
 Dojo/.idea/
 Dojo/project/
 Dojo/target/
-
+.idea/
